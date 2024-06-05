@@ -1,4 +1,7 @@
-# Password-Generator
+# Password-Generator 
+
+[Visit Here](https://thefearlesscoder.github.io/Password-Generator/)
+
 A web app where user can generate random passwords of desired length.
 
 User can also get to know the password strength, based on the indicator.
